@@ -1,0 +1,8 @@
+numpy # numerical python
+pandas # data manipulations
+scikit-learn # models and data processing
+openai # EDA process
+groq # EDA process
+seaborn # Visualizations
+dotenv
+matplotlib
